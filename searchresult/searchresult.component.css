@@ -1,0 +1,20 @@
+
+h2
+{
+    text-align: center;
+    font-family: "Comic Sans MS", "Arial Rounded MT Bold", sans-serif;
+ 
+}
+.card
+{
+    margin-top: 5%;
+}
+.card-body
+{
+    padding: 1.25rem;
+}
+.card-img-top
+{
+    max-height: 200px;
+    object-fit: cover;
+}
